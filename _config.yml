@@ -1,0 +1,28 @@
+name: factory
+favicon: null
+layout_spectrum: 0.9112131106667221
+typography_spectrum: 0.6811131215654314
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.11437414842657745
+  lightness: 0.9747004681266844
+  saturation: 0.46311667491681874
+  rhythmicContrast: 0.5756892757490277
+purpose: []
